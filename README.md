@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hussein-Kassir
 - 👀 I’m interested in books, history, science, information, and everything that seems and looks interesting to know about.
-- 🌱 I’m currently learning how to become a Full-stack developer.
-- 💞️ I’m looking to collaborate on everything related to full-stack development, including hiring tips, coding help, acquiring experience from people who are ahead of me in this.
+- 🌱 I’m currently learning how to become a Front-end developer.
+- 💞️ I’m looking to collaborate on everything related to front-end development, including hiring tips, coding help, acquiring experience from people who are ahead of me in this.
 - 📫 You can reach me
 
 <!---
